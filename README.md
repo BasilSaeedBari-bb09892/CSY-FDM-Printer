@@ -150,7 +150,7 @@ Standard overhang test (15°–75° in 15° increments) and a retraction/stringi
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/BasilSaeedBari/csy-fdm-printer.git
+git clone https://github.com/BasilSaeedBari-bb09892/CSY-FDM-Printer.git
 
 # 2. Read the build guide
 cat docs/BUILD.md
@@ -190,7 +190,7 @@ You are free to build, modify, and redistribute this design. Attribution appreci
 
 This printer project is one of two related HOIISP projects:
 
-- **[ESP32-S3 CNC Motion Controller](https://github.com/BasilSaeedBari/esp32s3-cnc-controller)** — A custom-designed PCB control board built around the ESP32-S3 N16R8, designed as a general-purpose CNC motion controller optimised for FDM 3D printing. Intended as a future replacement for the RAMPS 1.4 board used in this printer.
+- **[ESP32-S3 CNC Motion Controller](https://github.com/BasilSaeedBari-bb09892/esp32s3-cnc-controller.git)** — A custom-designed PCB control board built around the ESP32-S3 N16R8, designed as a general-purpose CNC motion controller optimised for FDM 3D printing. Intended as a future replacement for the RAMPS 1.4 board used in this printer.
 
 ---
 
