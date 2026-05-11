@@ -1,7 +1,5 @@
 # Compact FDM 3D Printer Employing a Circumferential Single-Motor Synchronous Dual-Drive Y-Axis Architecture
 
-`Design and Fabrication of a Compact FDM 3D Printer Employing a Circumferential Single-Motor Synchronous Dual-Drive Y-Axis Architecture`
-
 ---
 
 ## GitHub Repository
@@ -19,6 +17,8 @@
 ---
 
 ## Abstract
+
+`Design and Fabrication of a Compact FDM 3D Printer Employing a Circumferential Single-Motor Synchronous Dual-Drive Y-Axis Architecture`
 
 Fused Deposition Modelling (FDM) 3D printers are the dominant platform for desktop additive manufacturing, yet their motion systems represent engineering trade-offs that are rarely revisited at the student or hobbyist level. The most widely deployed kinematic architecture — the bed-slinger — advances the heated bed along the Y-axis using a single belt anchored to one side of the bed carriage, leaving the opposite side of the bed unsupported and susceptible to torsional loading, racking, and geometric error at higher print speeds. The alternative, CoreXY, eliminates this problem but requires two motors, a crossed belt path, complex firmware kinematics, and precise belt tension balancing — substantially increasing cost and calibration difficulty.
 
