@@ -42,7 +42,7 @@ No widely documented, validated solution exists that achieves synchronous dual-s
 
 ## Domain & IEEE Alignment
 
-**Primary Domain:** *(select one by replacing `[ ]` with `[x]`)*
+**Primary Domain:**
 - [ ] Electrical Engineering
 - [ ] Computer Science
 - [x] Computer Engineering
