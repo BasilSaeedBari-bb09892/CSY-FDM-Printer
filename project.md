@@ -1,4 +1,4 @@
-# Project Title
+# Compact FDM 3D Printer Employing a Circumferential Single-Motor Synchronous Dual-Drive Y-Axis Architecture
 
 `Design and Fabrication of a Compact FDM 3D Printer Employing a Circumferential Single-Motor Synchronous Dual-Drive Y-Axis Architecture`
 
@@ -6,7 +6,7 @@
 
 ## GitHub Repository
 
-`https://github.com/BasilSaeedBari/csy-fdm-printer`
+`https://github.com/BasilSaeedBari-bb09892/CSY-FDM-Printer/`
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Full Name | Student ID | GitHub Username | Habib Email | Program | Year | Role |
 |---|---|---|---|---|---|---|
-| Basil Saeed Bari | BB09892 | BasilSaeedBari | bb09892@st.habib.edu.pk | CE | 4 | Lead / Principal Investigator |
+| Basil Saeed Bari | BB09892 | BasilSaeedBari | bb09892@st.habib.edu.pk | CE | 3 | Lead / Principal Investigator |
 
 ---
 
